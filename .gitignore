@@ -1,0 +1,22 @@
+# Python environments
+.venv/
+.venv_broken/
+venv/
+
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Personal test images
+test_face.jpg
+test_face_result.jpg
+
+# Secrets and logs
+.env
+*.log
+
+# Editor settings
+.vscode/
